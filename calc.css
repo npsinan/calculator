@@ -104,4 +104,10 @@
     box-shadow: initial;
     color: #000;
   }
+  .btn:active {
+    background-color:initial;
+    box-shadow: initial;
+    color: #161515;
+    
+  }
 }
