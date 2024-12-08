@@ -96,10 +96,12 @@
   .btn:hover {
     background-color: initial;
     box-shadow: initial;
+    color: #000;
   }
 
   .btn-clr:hover {
     background-color: initial;
     box-shadow: initial;
+    color: #000;
   }
 }
